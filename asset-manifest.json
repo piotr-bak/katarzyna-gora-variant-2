@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/katarzyna-gora-variant-2/static/css/main.bd3c93eb.css",
+    "main.js": "/katarzyna-gora-variant-2/static/js/main.dac78a4e.js",
+    "static/media/_bg.webp": "/katarzyna-gora-variant-2/static/media/_bg.a9c27666ceaf6a04bd53.webp",
+    "static/media/kasia.webp": "/katarzyna-gora-variant-2/static/media/kasia.57a5b3743d8649529ec2.webp",
+    "static/media/kinga.webp": "/katarzyna-gora-variant-2/static/media/kinga.95e4be3e64e5c4d93353.webp",
+    "static/media/raspberries.webp": "/katarzyna-gora-variant-2/static/media/raspberries.96db74bf06da245c5495.webp",
+    "static/media/agata.webp": "/katarzyna-gora-variant-2/static/media/agata.6dc6397dc366a314ce79.webp",
+    "static/media/map.webp": "/katarzyna-gora-variant-2/static/media/map.00e19ece1456bd694c4a.webp",
+    "static/media/gabinet-2.webp": "/katarzyna-gora-variant-2/static/media/gabinet-2.8226014fc5cbc386c37c.webp",
+    "static/media/gabinet-1.webp": "/katarzyna-gora-variant-2/static/media/gabinet-1.5559b1e56f39af69bdf6.webp",
+    "static/media/gabinet-3.webp": "/katarzyna-gora-variant-2/static/media/gabinet-3.b8c303ccba5fda369d8b.webp",
+    "static/media/bush.webp": "/katarzyna-gora-variant-2/static/media/bush.43bb11a5bb3dbf102810.webp",
+    "static/media/consult.webp": "/katarzyna-gora-variant-2/static/media/consult.81aaeb1a85482b76538c.webp",
+    "static/media/ther-dparents.webp": "/katarzyna-gora-variant-2/static/media/ther-dparents.b2a099f3dd46acb29b9a.webp",
+    "static/media/ther-young.webp": "/katarzyna-gora-variant-2/static/media/ther-young.afd3b054048aa57a3ffb.webp",
+    "static/media/ther-dkids.webp": "/katarzyna-gora-variant-2/static/media/ther-dkids.f5f29e769be3770f7913.webp",
+    "static/media/ther-individ.webp": "/katarzyna-gora-variant-2/static/media/ther-individ.8f3ebd82d0ab4d009858.webp",
+    "static/media/slick.svg": "/katarzyna-gora-variant-2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/katarzyna-gora-variant-2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/katarzyna-gora-variant-2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/katarzyna-gora-variant-2/index.html",
+    "static/media/slick.woff": "/katarzyna-gora-variant-2/static/media/slick.295183786cd8a1389865.woff",
+    "main.bd3c93eb.css.map": "/katarzyna-gora-variant-2/static/css/main.bd3c93eb.css.map",
+    "main.dac78a4e.js.map": "/katarzyna-gora-variant-2/static/js/main.dac78a4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd3c93eb.css",
+    "static/js/main.dac78a4e.js"
+  ]
+}
